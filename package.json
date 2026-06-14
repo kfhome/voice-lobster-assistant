@@ -1,0 +1,14 @@
+{
+  "name": "hr-voice-lobster-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local IIS/Classic ASP voice assistant with browser speech recognition, Node model proxy, and browser speech synthesis.",
+  "main": "voice_server.js",
+  "scripts": {
+    "start": "node voice_server.js",
+    "check": "node --check voice_server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,15 @@
+tmp/
+*.log
+*.tmp
+.env
+
+# Local/debug image artifacts
+assets/debug-*.png
+assets/*.before-*.png
+assets/新建文件夹/
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
